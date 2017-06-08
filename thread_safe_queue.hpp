@@ -4,7 +4,7 @@
 	Author		:	yang yang
 	Created		:	2017.06.08
 	Last Modified:	2017.06.08
-	Description	:	A thread safe queue.
+	Description	:	A thread safe queue,use the queue of STL,and Boost.
 ************************************************************************************************/
 
 #ifndef THREAD_SAFE_QUEUE_HPP
